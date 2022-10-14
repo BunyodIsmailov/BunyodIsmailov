@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BunyodIsmailov
+- 👋 Hi, I’m BunyodIsmailov
 
 
 <!---
