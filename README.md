@@ -3,7 +3,7 @@
 
 ### 🛠 &nbsp;Languages and Tools : -->
 
-# Ismailov Bunyod
+
 
 
 
@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-###  Mohammad Saifur Rahman
-**Software Specialist** at **SSL Wireless** 
+###  Ismailov Bunyod
+**Backend  Developer**
 
 
 ### About Me
