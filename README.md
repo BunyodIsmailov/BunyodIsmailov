@@ -65,7 +65,7 @@ Software Engineer with 1.5+ years experience in web application development. Ski
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailov-backend-687829270/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foydamiztegsin) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ismailovbunyod2018/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ishonch_dev4185) [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/ishonch055) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ismailovbunyod2018/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ishonch_dev4185) [![Telegram](https://img.shields.io/badge/-telegram-red?color=red&logo=telegram&logoColor=black)](https://t.me/ishonch055) 
 
 [![](https://komarev.com/ghpvc/?username=foydamiztegsin&color=blue&label=GitHub+Views)](https://github.com/foydamiztegsin/)
 
