@@ -17,6 +17,8 @@
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231673071-cc97f973-074b-4760-806a-7ef678125d02.png" width=20; />  Katta jamoalar bilan birgalikda ishlash tajribamni yanada oshirish
 
+### <img src="https://user-images.githubusercontent.com/68915478/231674321-9a5659ce-1a73-43d5-b9f4-058759bd6a02.png" width=20; /> Tajriba:
+
 
 
 
