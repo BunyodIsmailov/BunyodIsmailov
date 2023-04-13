@@ -32,14 +32,15 @@ From: 10 July 2020 - To: 06 August 2022
 
 Total Time: 1,464 hrs 54 mins
 
-<span>Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %\n</span>
+<ul>
+ <li>Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %</li>
 Markdown           132 hrs 33 mins >>-----------------------   08.43 %\n
 TeX                103 hrs 52 mins >>-----------------------   06.61 %\n
 HTML               94 hrs 48 mins  >>-----------------------   06.03 %\n
 Nim                64 hrs 31 mins  >------------------------   04.11 %\n
 Other              47 hrs 58 mins  >------------------------   03.05 %\n
 
-
+</ul>
 
 
 <!-- <p>
