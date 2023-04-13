@@ -7,8 +7,8 @@
 
 ### Toshkent shahar Chilonzor tumani
 
-![image](https://user-images.githubusercontent.com/68915478/231669078-73f162f9-4820-40fa-bc04-664b0b52a10b.png)
-
+![image]()
+<img src="https://user-images.githubusercontent.com/68915478/231669078-73f162f9-4820-40fa-bc04-664b0b52a10b.png" />
 
 
 
