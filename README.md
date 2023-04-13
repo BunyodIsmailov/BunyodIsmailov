@@ -92,12 +92,15 @@ Software Engineer with **4+** years experience in web application development. S
 
 
 
-### Stacks:
-- Laravel API, MySQL, React
-- Laravel API, MySQL, Vue        
-- Laravel API, MySQL, Laravel Blade (Ajax)
-- Nodejs API, MySQL, React
-- Raw PHP API
+### <img src="https://user-images.githubusercontent.com/68915478/231674321-9a5659ce-1a73-43d5-b9f4-058759bd6a02.png" width=20; /> Experience:
+
+ - WITe engineering:
+   - January 2022 - Present.
+   - Position: Backend Developer
+
+ - IT-LABS Programming Academy:
+   - January 2022 - Present.
+   - Position: Python Mentor
 
 
 ### Technology:
