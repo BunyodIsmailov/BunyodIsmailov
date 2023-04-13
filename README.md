@@ -26,6 +26,8 @@
    - Yanvar 2022 - Hozirgi kun.
 
 
+### <img src="https://user-images.githubusercontent.com/68915478/231675395-371765d9-de11-4329-be64-decefa2528c6.png" width=20; /> Ko'nikmalar:
+
 
 
 
