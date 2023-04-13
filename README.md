@@ -12,7 +12,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231670616-54da6298-69f6-414c-87a5-07501867c1d4.png" width=20; /> ismailovbunyod@gmail.com
 
-
+### Maqsad: Katta Jamolar bilan birgalikda ishlash tajribamni yanada oshirish
 
 
 
