@@ -109,7 +109,7 @@ Software Engineer with **4+** years experience in web application development. S
  
 ### Progressive Stats Report:
 
-| <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/ismailovbunyod2018?theme=dark&font=Acme&ext=activity)](https://leetcode.com/ismailovbunyod2018/)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14350717&theme=dark)](https://stackoverflow.com/users/14350717/md-saifur-rahman) |
+| <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/ismailovbunyod2018?theme=dark&font=Acme&ext=activity)](https://leetcode.com/ismailovbunyod2018/)| <h3><center><b>StackOverflow Stats</b></center></h3> [![Mohammad Saifur Rahman's StackOverflow](https://t.me/ishonch055)|
 | ----------------- | ------------------ |
 |  <h3><center><b>Github Stats</b></center></h3>  |
 |  [![Top Langs](https://github-readme-stats.vercel.app/api?username=foydamiztegsin&theme=algolia&show_icons=true)](https://github.com/foydamiztegsin) | [![Ismailov Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foydamiztegsin)](https://github.com/foydamiztegsin/)
