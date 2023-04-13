@@ -10,6 +10,7 @@
 ### <img src="https://user-images.githubusercontent.com/68915478/231669870-a00435bb-a469-4338-9d14-66a1af0b603a.png" width=20; /> +998939944668
 
 
+### <img src="https://user-images.githubusercontent.com/68915478/231670186-dc9e47fb-318f-443c-a0b8-ab4899c68c09.png" width=20; /> ismailovbunyod@gmail.com
 
 
 
