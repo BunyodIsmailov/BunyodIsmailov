@@ -28,19 +28,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231675395-371765d9-de11-4329-be64-decefa2528c6.png" width=20; /> Ko'nikmalar:
 
-From: 10 July 2020 - To: 06 August 2022
-
-Total Time: 1,464 hrs 54 mins
-
-<ul>
- <li>Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %</li>
-Markdown           132 hrs 33 mins >>-----------------------   08.43 %\n
-TeX                103 hrs 52 mins >>-----------------------   06.61 %\n
-HTML               94 hrs 48 mins  >>-----------------------   06.03 %\n
-Nim                64 hrs 31 mins  >------------------------   04.11 %\n
-Other              47 hrs 58 mins  >------------------------   03.05 %\n
-
-</ul>
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 
 <!-- <p>
