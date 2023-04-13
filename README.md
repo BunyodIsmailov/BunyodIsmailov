@@ -19,6 +19,12 @@
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231674321-9a5659ce-1a73-43d5-b9f4-058759bd6a02.png" width=20; /> Tajriba:
 
+ - WITe engineering:
+   - Yanvar 2022 - Hozirgi kun.
+
+ - IT-LABS programming academy:
+   - Yanvar 2022 - Hozirgi kun.
+
 
 
 
