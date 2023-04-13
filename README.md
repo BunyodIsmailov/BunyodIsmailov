@@ -64,8 +64,13 @@ You can click the Preview link to take a look at your changes.
 Software Engineer with 1.5+ years experience in web application development. Skilled in  Django, REST API, Telegram Bot, Postgres, Nginx, MySQL. With such skill sets, goal oriented hard working and by solving problems,I also like Telegram bots and automation, and I've established myself as a key team player
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailov-backend-687829270/)  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foydamiztegsin) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ismailovbunyod2018/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ishonch_dev4185) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ishonch055) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismailov.backend/) [![Telegram Bot Projects](https://img.shields.io/badge/telegrambotprojects-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/my_workuz)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foydamiztegsin) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ismailovbunyod2018/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismailov-backend-687829270/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ishonch_dev4185) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ishonch055) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismailov.backend/) 
+[![Telegram Bot Projects](https://img.shields.io/badge/telegrambotprojects-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/my_workuz)
 
 [![](https://komarev.com/ghpvc/?username=foydamiztegsin&color=blue&label=GitHub+Views)](https://github.com/foydamiztegsin/)
 
