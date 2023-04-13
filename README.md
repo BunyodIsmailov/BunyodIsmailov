@@ -92,8 +92,8 @@ Software Engineer with 1.5+ years experience in web application development. Ski
 ### Technology:
 
 
-|Python|Django|PostgreSQL|Nginx |Gunicorn |Celery|Redis|REST API|Git , Github|Docker|HTML, CSS|JavaScript|
-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Python|Django|PostgreSQL|Nginx |Gunicorn |Celery|Redis|REST API|Git , Github|Docker|HTML, CSS|JavaScript|Dart|Flutter|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
  
  
 ### Progressive Stats Report:
