@@ -77,7 +77,7 @@ Software Engineer with 1.5+ years experience in web application development. Ski
 
  - WITe engineering:
    - January 2022 - Present.
-   - Position: Backend Developer
+   - Position: Backend  Developer
 
  - IT-LABS Programming Academy:
    - January 2022 - Present.
