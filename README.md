@@ -112,7 +112,7 @@ Software Engineer with **4+** years experience in web application development. S
 | <h3><center><b>Leetcode Stats</b></center></h3> [![Leetcode Stats](https://leetcard.jacoblin.cool/ismailovbunyod2018?theme=dark&font=Acme&ext=activity)](https://leetcode.com/ismailovbunyod2018/)| [![Ismailov Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foydamiztegsin)](https://github.com/foydamiztegsin/)|
 | ----------------- | ------------------ |
 |  <h3><center><b>Github Stats</b></center></h3>  |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api?username=foydamiztegsin&theme=algolia&show_icons=true)](https://github.com/foydamiztegsin) | <h3><center><b>Github Stat</b></center></h3> ![Ismailov's Github](https://github-readme-streak-stats.herokuapp.com/?user=foydamiztegsin&hide_border=true&theme=vision-friendly-dark)
+|  [![Top Langs](https://github-readme-stats.vercel.app/api?username=foydamiztegsin&theme=algolia&show_icons=true)](https://github.com/foydamiztegsin) |  ![Ismailov's Github](https://github-readme-streak-stats.herokuapp.com/?user=foydamiztegsin&hide_border=true&theme=vision-friendly-dark)
  
 
 
