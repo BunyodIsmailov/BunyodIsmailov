@@ -5,7 +5,7 @@
 
 # Ismailov Bunyod
 
-### <img src="https://user-images.githubusercontent.com/68915478/231672620-4ebe3a7f-e457-42f4-83a7-897f49f5d5a6.png" width=50; />  Katta Jamolar bilan birgalikda ishlash tajribamni yanada oshirish
+
 
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231669078-73f162f9-4820-40fa-bc04-664b0b52a10b.png" width=20; />  Toshkent shahar Chilonzor tumani
@@ -15,6 +15,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/68915478/231670616-54da6298-69f6-414c-87a5-07501867c1d4.png" width=20; />  ismailovbunyod@gmail.com
 
+### <img src="https://user-images.githubusercontent.com/68915478/231673071-cc97f973-074b-4760-806a-7ef678125d02.png" width=20; />  Katta Jamolar bilan birgalikda ishlash tajribamni yanada oshirish
 
 
 
