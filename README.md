@@ -5,7 +5,7 @@
 
 # Ismailov Bunyod
 
-# Toshkent Shahri Chilonzor tumani
+### Toshkent shahar Chilonzor tumani
 
 
 
