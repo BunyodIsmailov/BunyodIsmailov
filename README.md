@@ -3,7 +3,7 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 
-# Hello friends
+-ism:  # Ismailov Bunyod
 
 
 
