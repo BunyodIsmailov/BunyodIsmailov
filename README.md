@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### About Me
-Software Engineer with 1.5+ years experience in web application development. Skilled in  Django, REST API, Telegram Bot, Postgres, Nginx, MySQL. With such skill sets, goal oriented hard working and by solving problems,I also like Telegram bots and automation, and I've established myself as a key team player
+My name is Bunyod and I am a software engineer with over 1.5 years of experience in web application development. I am skilled in technologies such as Django, REST API, Telegram Bot, Postgres, Nginx, and MySQL. With my skillset, goal-oriented mindset, and problem-solving abilities, I am always ready to overcome challenges and achieve success. I also enjoy creating Telegram bots and automating processes, and I am constantly striving to learn new technologies to tackle complex tasks.
 
 
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foydamiztegsin) 
