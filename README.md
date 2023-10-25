@@ -97,7 +97,7 @@ My name is Bunyod and I am a software engineer with over 1.5 years of experience
 
 
 |Python|Django|PostgreSQL|Nginx |Gunicorn |Celery|Redis|REST API|Git , Github|Docker|HTML, CSS|JavaScript|Dart|Flutter|Swift|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
  
  
 ### Progressive Stats Report:
