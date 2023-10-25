@@ -81,18 +81,22 @@ My name is Bunyod and I am a software engineer with over 1.5 years of experience
 ### <img src="https://user-images.githubusercontent.com/68915478/231674321-9a5659ce-1a73-43d5-b9f4-058759bd6a02.png" width=20; /> Experience:
 
  - WITe engineering:
-   - January 2022 - Present.
+   - January 2022 - 2023 January.
    - Position: Backend  Developer
 
  - IT-LABS Programming Academy:
    - January 2022 - Present.
    - Position: Python Mentor
 
+ - Supersite.uz IT company:
+   - October 2022 - Present.
+   - Position: Backend and Telegram bot developer
+
 
 ### Technology:
 
 
-|Python|Django|PostgreSQL|Nginx |Gunicorn |Celery|Redis|REST API|Git , Github|Docker|HTML, CSS|JavaScript|Dart|Flutter|
+|Python|Django|PostgreSQL|Nginx |Gunicorn |Celery|Redis|REST API|Git , Github|Docker|HTML, CSS|JavaScript|Dart|Flutter|Swift|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
  
  
