@@ -92,7 +92,7 @@ My name is Bunyod and I am a software engineer with over 1.5 years of experience
    - October 2022 - Present.
    - Position: Backend and Telegram bot developer
 
- - Software System Pro IT company: softwaresystem.uz
+ - <a href="https://softwaresystem.uz/">Software System Pro IT company</a>: softwaresystem.uz
    - October 2023 June - Present.
    - Position: Backend and Telegram bot developer
 
