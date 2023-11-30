@@ -84,15 +84,15 @@ My name is Bunyod and I am a software engineer with over 1.5 years of experience
    - January 2022 - 2023 January.
    - Position: Backend  Developer
 
- - IT-LABS Programming Academy: itlabs.uz
+ - <a href="https://itlabs.uz/">IT-LABS Programming Academy</a>: 
    - January 2022 - Present.
    - Position: Python Mentor
 
- - Supersite.uz IT company: supersite.uz
+ - <a href="https://supersite.uz/">Supersite.uz IT company</a>: 
    - October 2022 - Present.
    - Position: Backend and Telegram bot developer
 
- - <a href="https://softwaresystem.uz/">Software System Pro IT company</a>: softwaresystem.uz
+ - <a href="https://softwaresystem.uz/">Software System Pro IT company</a>:
    - October 2023 June - Present.
    - Position: Backend and Telegram bot developer
 
